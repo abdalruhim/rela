@@ -1,0 +1,46 @@
+(_________tola_rela_________)
+(link Rel = 'stylesheet' href='https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css';)
+(_________tola_rela_________)
+
+tola Body{(id='body-app')
+(_tola StyleBody = 'background:#000;'_)
+
+tola DivApp{(class='feed-app')
+(_tola StyleFeedApp = 'display:flex;flex-direction:column;align-content:center;align-items:center;'_)
+
+tola Button{(id='btn-app' herf='#')
+tola Span{(id='span')
+(_tola Span = 'hello world'_)
+}
+(_tola StyleButton = 'width:150px;height:64px;background:#00a7ff;border:none;border-radius:10px;cursor:pointer;'_)
+(_tola StyleSpan = 'color:#fff;font-size:23px;'_)
+}
+tola H1{(id='h1-app')
+(_tola H1 = 'Hi im AbdulRahim Amr'_)
+}
+
+tola Img{(id='img-app')
+(_tola ImgSrc = 'downloads/images/map.png'_)
+(_tola StyleImgApp = 'width:200px;height:200px;border-radius:10px;'_)
+}
+
+tola Button{(id='button-app' href='#')
+tola Icon{(id='icon')
+(_tola Icon = 'ri-book-line'_)
+}
+}
+}
+tola DivApp{(class='right-app')
+tola Button{(id='btnsa-app')
+tola Span{(id='span-feed')
+(_tola Span = 'start'_)
+}
+}
+}
+}
+tola Script{(id='scriptRela')
+function Button{(id='btn-app')
+alert('hello world');
+}
+}
+(_________tola_rela_________)
